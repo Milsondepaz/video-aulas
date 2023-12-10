@@ -17,7 +17,7 @@
 
 3. [ ] **Rodar a aplicacao.**
 
-4. [ ] **Criar o repositório local e remoto e faz o primeiro commit:**
+4. [ ] **Criar o repositório local e remoto e fazer o primeiro commit:**
    ```bash
    git init
 
