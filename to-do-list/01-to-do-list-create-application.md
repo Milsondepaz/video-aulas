@@ -5,8 +5,10 @@
 -  **Commit:** "first commit"
 
 ## **Passos:**
- [ ]
-1.  **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/)
+- [ ]
+- [x] 
+ 
+1. **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/)
    - **Project:** Maven
    - **Language:** Java
    - **Spring Boot version:** 3.2.0
