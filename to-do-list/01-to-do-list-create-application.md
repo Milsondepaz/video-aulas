@@ -6,7 +6,7 @@
 
 ## **Passos:**
 
-1. [ ] **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/)
+1. [ ] **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/){:target="_blank"}
    - **Project:** Maven
    - **Language:** Java
    - **Spring Boot version:** 3.2.0
@@ -30,4 +30,3 @@
    git push -u origin master
    ```
 Boa aula! 🚀
-
