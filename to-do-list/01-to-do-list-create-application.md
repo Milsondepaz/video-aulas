@@ -17,6 +17,6 @@
 3. **Rodar a aplicacao.**
 
 4. **Criar o repositório local e remoto:**
-   - Fazer o pro github.
+   - Fazer o push pro github.
 
 **Boa aula! 🚀**
