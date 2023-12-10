@@ -5,10 +5,8 @@
 -  **Commit:** "first commit"
 
 ## **Passos:**
-- [ ]
-- [x] 
- 
-1. **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/)
+
+1. [ ] **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/)
    - **Project:** Maven
    - **Language:** Java
    - **Spring Boot version:** 3.2.0
@@ -20,18 +18,16 @@
 3. [ ] **Rodar a aplicacao.**
 
 4. [ ] **Criar o repositório local e remoto e faz o primeiro commit:**
-```
-git init
+   ```bash
+   git init
 
-git add .
+   git add .
 
-git commit -m "first commit"
+   git commit -m "first commit"
 
-git remote add origin URL_DO_SEU_REPOSITORIO
+   git remote add origin URL_DO_SEU_REPOSITORIO
 
-git push -u origin master
+   git push -u origin master
+   ```
+Boa aula! 🚀
 
-```
-
-
-**Boa aula! 🚀**
