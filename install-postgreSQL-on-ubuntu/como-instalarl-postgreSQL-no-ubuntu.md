@@ -1,4 +1,3 @@
-Certamente! Aqui está o seu texto formatado de maneira mais organizada em Markdown, e os links configurados para abrir em uma nova aba:
 
 ---
 
