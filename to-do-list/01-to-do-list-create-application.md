@@ -3,7 +3,6 @@
 ## **- Tarefa: Criar o serviço to-do-list**
 - [ ] **Branch:** master
 - [ ] **Commit:** "first commit"
-- **Introdução:** Apresentar a aplicação e as tecnologias que serão usadas no desenvolvimento.
 
 ## **Passos:**
 1. **Gerar o projeto através do Spring Initializr:** [https://start.spring.io/](https://start.spring.io/)
@@ -12,12 +11,12 @@
    - **Spring Boot version:** 3.2.0
    - **Dependencies:** Spring Web, Thymeleaf, Spring Data JPA, PostgreSQL Driver, Validation
 
-2. **Mostrar o POM:**
+2. **Vizualizar o POM:**
    - Comentar dependências do JPA e PostgreSQL.
 
-3. **Rodar o projeto pela primeira vez.**
+3. **Rodar a aplicacao.**
 
 4. **Criar o repositório local e remoto:**
-   - Fazer o primeiro commit.
+   - Fazer o pro github.
 
 **Boa aula! 🚀**
