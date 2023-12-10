@@ -16,7 +16,19 @@
 
 3. **Rodar a aplicacao.**
 
-4. **Criar o repositório local e remoto:**
-   - Fazer o push pro github.
+4. **Criar o repositório local e remoto e faz o primeiro commit:**
+```
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin URL_DO_SEU_REPOSITORIO
+
+git push -u origin master
+
+```
+
 
 **Boa aula! 🚀**
