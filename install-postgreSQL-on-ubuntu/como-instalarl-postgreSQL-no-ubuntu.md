@@ -78,6 +78,13 @@
    \q
    ```
 
-7. **Acesse o pgAdmin4 e conecte-se ao Banco de Dados.**
+7. **Acesse o pgAdmin4 e conecte-se ao Servidor do PostgreSQL e crie seu Banco de Dados.**
+
+
+8. **Link do site [DZone](https://dzone.com/articles/bounty-spring-boot-and-postgresql-database/) onde busquei as informacoes para configurar o Banco de Dados.**
+
+
+9. ** [Repositorio da Aplicao](https://dzone.com/articles/bounty-spring-boot-and-postgresql-database/) que eu usei como exemplo.**
+
 
 ---
