@@ -1,6 +1,6 @@
 # **To-do-List - Aula 01**
 
-## **- Tarefa: Criar o serviço to-do-list**
+## **- Objectivo dessa aula: Criar o serviço to-do-list**
 -  **Branch:** master
 -  **Commit:** "first commit"
 
@@ -24,8 +24,12 @@
    git add .
 
    git commit -m "first commit"
+   
+   gh repo create task-management --public
+   
+   gh repo view task-management --json=url
 
-   git remote add origin URL_DO_SEU_REPOSITORIO
+   git remote add origin git@github.com:Milsondepaz/task-management.git
 
    git push -u origin master
    ```
