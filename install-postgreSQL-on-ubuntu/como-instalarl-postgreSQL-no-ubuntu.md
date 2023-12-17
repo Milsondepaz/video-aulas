@@ -83,6 +83,18 @@
 
 8. **Link do site [DZone](https://dzone.com/articles/bounty-spring-boot-and-postgresql-database/) onde busquei as informacoes para configurar o Banco de Dados.**
 
+```application.properties```
+```
+
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.hibernate.show-sql=true
+spring.datasource.url=jdbc:postgresql://localhost:5432/meubanco
+spring.datasource.username=postgres
+spring.datasource.password=123456
+```
+
+
 
 9. **[Repositorio da Aplicao](https://github.com/Milsondepaz/install-postgresql-and-pgadmin/) que eu usei como exemplo.**
 
