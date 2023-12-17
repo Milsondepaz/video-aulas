@@ -24,16 +24,10 @@
    git commit -m "first commit"
    ```
    ``` 
-   gh repo create task-management --public
+   git remote add origin git@github.com:SUE_USUARIO/task-management.git
    ```
    ``` 
-   gh repo view task-management --json=url
-   ```
-   ```
-   git remote add origin git@github.com:Milsondepaz/task-management.git
-   ```
-   ```
-   git push -u origin master
+   git push -u origin branch-name
    ```
 
 Boa aula! 🚀
