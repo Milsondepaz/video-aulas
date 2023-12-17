@@ -84,7 +84,7 @@
 8. **Link do site [DZone](https://dzone.com/articles/bounty-spring-boot-and-postgresql-database/) onde busquei as informacoes para configurar o Banco de Dados.**
 
 
-9. ** [Repositorio da Aplicao](https://github.com/Milsondepaz/install-postgresql-and-pgadmin/) que eu usei como exemplo.**
+9. **[Repositorio da Aplicao](https://github.com/Milsondepaz/install-postgresql-and-pgadmin/) que eu usei como exemplo.**
 
 
 ---
