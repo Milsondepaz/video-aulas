@@ -27,7 +27,7 @@
    git remote add origin git@github.com:SUE_USUARIO/task-management.git
    ```
    ``` 
-   git push -u origin branch-name
+   git push --set-upstream origin master
    ```
 
 Boa aula! 🚀
