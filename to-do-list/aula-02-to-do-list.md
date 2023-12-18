@@ -16,7 +16,7 @@ spring.datasource.username=postgres
 spring.datasource.password=123456
 ```
 
-4. [ ] **Testar a aplicacao.**
+4. [ ] **Testar/Rodar a aplicacao.**
 ```
 spring.profiles.active=local
 ```
