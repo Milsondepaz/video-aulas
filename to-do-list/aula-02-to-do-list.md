@@ -6,7 +6,7 @@
 
 2. [ ] **Adicionar/Configurar ambiente de desenvolvimento**
 
-3. [ ] **Configurar o Banco de dados**
+3. [ ] **Criar e Configurar o Banco de dados**
 ```
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto=update
