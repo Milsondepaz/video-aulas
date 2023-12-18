@@ -2,9 +2,11 @@
 
 ## **- Objetivo: configurar Banco de Dados**
 
-1. [ ] **Adicionar perfil local**
+1. [ ] **Criar uma nova branch**
 
-2. [ ] **Configurar o Banco de dados**
+2. [ ] **Adicionar/Configurar ambiente de desenvolvimento**
+
+3. [ ] **Configurar o Banco de dados**
 ```
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto=update
@@ -14,11 +16,11 @@ spring.datasource.username=postgres
 spring.datasource.password=123456
 ```
 
-3. [ ] **Rodar a aplicacao.**
+4. [ ] **Testar a aplicacao.**
 ```
 spring.profiles.active=local
 ```
 
-4. [ ] **Merge to master.**
+5. [ ] **Enviar o código para o reposiotiro remoto.**
 
 Boa aula! 🚀
