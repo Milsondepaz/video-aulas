@@ -55,6 +55,12 @@
     private String description;
 ```
 
+4. [ ] **Adicionar arquivo: /resources/schema.sql**
+```
+-- create schema
+CREATE SCHEMA IF NOT EXISTS schema_task;
+```
+
 4. [ ] **Testar/Rodar a aplicacao.**
 
 
