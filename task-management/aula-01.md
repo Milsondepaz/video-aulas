@@ -44,7 +44,9 @@ spring.datasource.username=seu-usuario
 spring.datasource.password=sua-palavra-passe
 ```
 
-6. [ ] *Fazer commit e push para o repositorio remoto.**
+8. [ ] **Rodar a aplicação novamente, já com o Banco de Dados configurado.**
+
+9. [ ] **Fazer commit e push para o repositorio remoto.**
    
 
 Boa aula! ✅
