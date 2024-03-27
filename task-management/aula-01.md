@@ -3,7 +3,7 @@
 1. [ ] **Criar o repositorio remoto no Git Hub:** [https://github.com/login](https://github.com/login/)
 
 
-2. [ ] **Clonar o repositorio remoto**:
+2. [ ] **Clonar o repositorio remot:o**
 ```
    "link do seu projecto" ex: git clone git@github.com:Milsondepaz/task-management.git
 ```
@@ -31,9 +31,8 @@ se tiver dúvida assista este vídeo: [https://youtu.be/yJwD2ii4pEY?si=VSk4eMnjG
 
 
 7. [ ] **Configurar Banco de Dados:**
-   - **Site DZone**: [https://dzone.com/articles/bounty-spring-boot-and-postgresql-database](https://dzone.com/articles/bounty-spring-boot-and-postgresql-database)**
-
-      - Se tiver problemas Em configurar/instalar Banco de Dados assista este video: [https://youtu.be/ypyR3Gxp-vA?si=frJY3XKrTEscgSCN](https://youtu.be/ypyR3Gxp-vA?si=frJY3XKrTEscgSCN)
+   - **Site DZone:** [https://dzone.com/articles/bounty-spring-boot-and-postgresql-database](https://dzone.com/articles/bounty-spring-boot-and-postgresql-database)
+   - **Se tiver problemas Em configurar/instalar Banco de Dados assista este video:** [https://youtu.be/ypyR3Gxp-vA?si=frJY3XKrTEscgSCN](https://youtu.be/ypyR3Gxp-vA?si=frJY3XKrTEscgSCN)
 ```
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto=none
