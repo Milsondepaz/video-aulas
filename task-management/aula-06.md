@@ -18,4 +18,9 @@
 </plugin>
 ```
 
+1. [ ] **Metodo para buscar lista de tarefas:**
+```
+List<TaskEntity> findAllByOrderByCreatedOnDesc();
+```
+
 Boa aula! ✅
