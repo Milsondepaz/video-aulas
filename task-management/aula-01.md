@@ -3,7 +3,7 @@
 1. [ ] **Criar o repositorio remoto no Git Hub:** [https://github.com/login](https://github.com/login/)
 
 
-2. [ ] **Clonar o repositorio remoto:
+2. [ ] **Clonar o repositorio remoto**:
 ```
    "link do seu projecto" ex: git clone git@github.com:Milsondepaz/task-management.git
 ```
