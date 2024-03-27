@@ -3,7 +3,16 @@
 1. [ ] **Criar uma nova branch:**
    - feature/DEV-001-crud-task
 
-2. [ ] **Atributos da classe taskEntity:**
+2. [ ] **Adicionar dependencia: Jakarta Validation**
+```
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-validation</artifactId>
+</dependency>
+```
+
+
+3. [ ] **Classe taskEntity:**
 ```
     @Id
     @GeneratedValue(generator = "uuid2")
@@ -35,4 +44,13 @@
     private String description;
 ```
 
-Boa aula! ✅
+4. [ ] **Adicionar arquivo: /resources/schema.sql**
+```
+-- create schema
+CREATE SCHEMA IF NOT EXISTS schema_task;
+```
+
+4. [ ] **Testar/Rodar a aplicacao.**
+
+
+Boa aula! 🚀
