@@ -157,7 +157,7 @@
         <div style="display: flex; flex-direction: column; align-items: center;">
             <div style="display: inline-block; margin-bottom: 10px; margin-top: 20px;">
                 <div class="container">
-                    <span class="text-center">Copyright @2023 | Developed with ❤️ by <a
+                    <span class="text-center">Copyright @2024 | Developed with ❤️ by <a
                             href="https://www.youtube.com/@MilsonDev" target="_blank">MilsonDev</a></span>
                     <ul class="social_footer_ul">
                         <li><a href="https://www.youtube.com/@MilsonDev" target="_blank"><i class="fab fa-youtube"></i></a></li>
