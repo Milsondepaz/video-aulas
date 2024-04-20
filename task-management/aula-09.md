@@ -104,9 +104,6 @@
     <title>My To do List</title>
 </head>
 <section layout:fragment="content" style="min-height: 90vh; background-color: lightgray; margin-top:5%">
-    <div>
-        <h1>Hello World</h1> 
-    </div>
 </section>
 </html>
 ```
