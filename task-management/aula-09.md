@@ -125,6 +125,7 @@
                 <img src="/img/logo.png" class="img-fluid" width="100" height="100">
             </figure>
         </a>
+        <!--
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -146,6 +147,7 @@
                 </li>
             </ul>
         </div>
+        -->
     </div>
 </nav>
 </html>
@@ -388,8 +390,6 @@ color: white;
   background-color: black;
   transition: background-color 0.3s;
 }
-
-
 ```
 
 Boa aula! ✅
