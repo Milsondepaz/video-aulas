@@ -113,7 +113,7 @@
 
 ```
 
-5. [ ] **Cabeçalho:**
+5. [ ] **Header:**
 ```
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
