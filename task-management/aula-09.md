@@ -1,4 +1,4 @@
-# **09 - Implementando o Controller e Front End pt. 1 [Aplicacao de Lista de Tarefas com Java e Spring Boot] ✅**
+# **09 - Implementando o Controller e Front End pt. 1 [Aplicação de Lista de Tarefas com Java e Spring Boot] ✅**
 
 1. [ ] **Adicione a Dependência  do Thymeleaf:**
 ```
