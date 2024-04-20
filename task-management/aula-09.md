@@ -10,7 +10,6 @@
 ```
 
 2. [ ] **Adicione a Dependência do Thymeleaf Layout Dialect:**
-
 ```
 <!-- dependência do  Thymeleaf Layout Dialect -->
 <dependency>
@@ -20,7 +19,7 @@
 </dependency>
 ```
 
-3. [ ] **Layout:**
+3. [ ] **layout.html:**
 ```
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
@@ -94,7 +93,7 @@
 </html>
 ```
 
-4. [ ] **Index:**
+4. [ ] **index.hmtl:**
 ```
 <!DOCTYPE html>
 <html lang="en"
@@ -110,10 +109,9 @@
     </div>
 </section>
 </html>
-
 ```
 
-5. [ ] **Header:**
+5. [ ] **header.html:**
 ```
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -153,7 +151,7 @@
 </html>
 ```
 
-6.[ ] **Footer:**
+6.[ ] **footer.html:**
 ```
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -319,8 +317,6 @@ color: white;
 .sublist a:hover {
     color: red; /* Ou a cor desejada ao passar o mouse */
 }
-
-
 
 .navbar {
   background-color: #333;
