@@ -1,6 +1,6 @@
 # **14 - Implementando o Controller e Front End pt. 6 [Aplicação de Lista de Tarefas com Java e Spring Boot] ✅**
 
-2. [ ] **botao edit:**
+1. [ ] **botao edit:**
 
 ```
 <form th:action="@{/edit-task/{id}(id=${taskDto.id})}" method="get" style="display:inline;">

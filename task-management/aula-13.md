@@ -1,6 +1,6 @@
 # **13 - Implementando o Controller e Front End pt. 5 [Aplicação de Lista de Tarefas com Java e Spring Boot] ✅**
 
-2. [ ] **alert.html:**
+1. [ ] **alert.html:**
 
 ```
 <!DOCTYPE html>

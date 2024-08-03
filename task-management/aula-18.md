@@ -1,6 +1,6 @@
 # **18 - Implementando o Controller e Front End pt. 10 [Aplicação de Lista de Tarefas com Java e Spring Boot] ✅**
 
-2. [ ] **paginação:**
+1. [ ] **paginação:**
 
 ```
 <div class="container text-center" style="padding-top:5%">

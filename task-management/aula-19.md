@@ -1,5 +1,12 @@
 # **19 - Implementando Pagina de Erro Personalizada [Aplicação de Lista de Tarefas com Java e Spring Boot] ✅**
 
+1. [ ] **mensagens personalizada:**
+```
+private final static String NOT_FOUND = "Error 404: It seems that the page you are looking for does not exist. The link might be incorrect, or the page may have been removed.";
+private final static String BAD_REQUEST = "Error 400: It seems there was a problem with the information you submitted. Some data might be incorrect or missing.";
+private final static String INTERNAL_SERVER_ERROR = "Error 500: There was an internal problem on our server. We are working to resolve this as quickly as possible.";
+```
+
 2. [ ] **error.html:**
 
 ```
