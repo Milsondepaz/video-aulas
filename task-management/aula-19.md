@@ -28,7 +28,7 @@ private final static String INTERNAL_SERVER_ERROR = "Error 500: There was an int
                         <h1>OOPS!</h1>
                         <h4  th:if= "${errorBadRequest != ''}" th:text="${errorBadRequest}"></h4>
                         <h4  th:if= "${errorNotFound != ''}" th:text="${errorNotFound}"></h4>
-                        <h4  th:if= "${errorInternalServer != ''}" th:text="${errorInternalServer}"></h4>
+                        <h4  th:if= "${errorInternalServerError != ''}" th:text="${errorInternalServerError}"></h4>
                         <div class="text-center">
                             <img src="/img/error.png">
                         </div>
