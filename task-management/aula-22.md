@@ -7,6 +7,8 @@
 Account Settings 
 Connect to GitHub
 
+Remove PostgresSQL Dialect
+
 Environment Variables
 ```
 db = taskmanagement_8eig
