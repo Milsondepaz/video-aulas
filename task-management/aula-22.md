@@ -4,6 +4,17 @@
 
 [https://dashboard.render.com/](https://dashboard.render.com/)
 
+Account Settings 
+Connect to GitHub
+
+Environment Variables
+```
+db = taskmanagement_8eig
+host = dpg-cqohm70gph6c73b9pl4g-a.singapore-postgres.render.com
+password = geE1yl3KqO3DTzVzWyDUjO4ict4tkNpa
+user = milsondev
+```
+
 Passos para o deploy e conectar o GitHub no Render
 
 2. [ ] **CI/CD - GitHub Actions:**
